@@ -10,4 +10,4 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=101010)</br>
 # Contact me:
 ![Linkedin](https://img.shields.io/badge/Edwin_Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)
-![Gmail](https://img.shields.io/badge/edyanape@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010) fact: ...
+![Gmail](https://img.shields.io/badge/edyanape@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
