@@ -1,6 +1,6 @@
 
 # Hi there, my name is Yael Hernandez🖐
-Data analysis oriented engineer, passionate about problem solving, new technology implementation and development of products and services. I have experience with the ETL process with large quantities of data and implementation of data warehouse and basics of modeling. I have implemented tools such as Python, SQL, Tableau and Excel.
+I am a Data analysis oriented engineer, passionate about problem solving, new technology implementation and development of products and services. I have experience with the ETL process with large quantities of data and implementation of data warehouse and basics of modeling. I have implemented tools such as Python, SQL, Tableau and Excel.
 # Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![PosgresSql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
