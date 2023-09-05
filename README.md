@@ -1,6 +1,6 @@
 
 # Hi there, my name is Yael Hernandez🖐
-I am a Data Analyst oriented engineer, passionate about problem solving, implementing new technologies and improving services and products with data-driven decisions. I have experience in data cleaning, data wrangling and data governance and automations using large quantities of data. I have implemented tools such as Python, SQL, Tableau, R and Excel.
+I am a Data Analyst oriented engineer, passionate about problem solving, implementing new technologies and improving services and products with data-driven decisions. I have experience in data cleaning, data wrangling, data governance and automations using large quantities of data. I have implemented tools such as Python, SQL, Tableau, R and Excel.
 # Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![PosgresSql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
